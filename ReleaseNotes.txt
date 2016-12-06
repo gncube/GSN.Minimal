@@ -1,0 +1,17 @@
+<h3>Minimal DNN Skin</h3>
+<p class="Contributor">
+	Gerald Ncube&reg; <br />
+	<a href="mailto:me@geraldncube.co.uk">me@geraldncube.co.uk</a><br />
+	<a href=http://geraldncube.co.uk>http://geraldncube.co.uk</a><br />
+</p>
+<hr/>
+<div class="License">
+	<p class="Owner">
+		<h3>Minimal Bootstrap Skin</h3>
+		<strong>Version 8.0.0</strong><br /><br />		
+		This release requires DotNetNuke core 6.2 or greater. <br /><br />
+		<ul>
+			<li>Added Parallax Slider</li>
+		</ul>
+	</p>
+</div>
